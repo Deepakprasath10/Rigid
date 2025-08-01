@@ -1,0 +1,11 @@
+Name,Year,Selling_Price,Present_Price,Kms_Driven,Fuel_Type,Seller_Type,Transmission,Owner
+Maruti Swift,2014,3.35,5.59,27000,Petrol,Dealer,Manual,0
+Hyundai i20,2013,2.50,5.70,43000,Diesel,Dealer,Manual,0
+Honda City,2015,4.60,9.85,69000,Petrol,Dealer,Manual,0
+Toyota Innova,2011,6.95,11.40,72000,Diesel,Dealer,Manual,0
+Mahindra XUV500,2017,9.25,15.00,31000,Diesel,Individual,Manual,0
+Renault Kwid,2019,3.80,4.95,25000,Petrol,Dealer,Manual,0
+Tata Nexon,2020,6.95,7.80,15000,Petrol,Dealer,Manual,0
+Ford EcoSport,2016,5.50,8.75,50000,Diesel,Dealer,Manual,0
+Hyundai Verna,2018,7.20,10.50,32000,Petrol,Individual,Automatic,0
+Honda Amaze,2015,3.95,6.85,40000,Petrol,Individual,Manual,0
